@@ -1,4 +1,4 @@
-# automation-test-utils
+# webdriverio-automation-test-utils
 
 A collection of JavaScript helper functions for [WebdriverIO](https://webdriver.io/) automation testing.
 
